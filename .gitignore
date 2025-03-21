@@ -169,3 +169,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# trained model save testing
+model_and_optimizer.pth
+
+# GPT2 download files
+ch5-training/gpt2/
+
+# pythonenv
+build-llm/
+python312_env/
